@@ -1,0 +1,14 @@
+layout_spectrum: 0.999002827797085
+typography_spectrum: 0.939379503717646
+color:
+  brandStrength: 0.2391005726531148
+  lightness: 0.05052699870429933
+  saturation: 0.9747505991254002
+  rhythmicContrast: 0.6969612971879542
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: 'Shark '
